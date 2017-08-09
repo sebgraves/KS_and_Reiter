@@ -1,4 +1,4 @@
-# Solving the Incomplete Markets model using the Krusell-Smith and Reiter methods
+# Solving the Incomplete Markets Model Using the Krusell-Smith and Reiter Methods
 Matlab code and guide for solving the incomplete markets model using the methods of Krusell &amp; Smith (1998) and Reiter (2009).
 
 Running Start.m solves the model using both methods, and produces the figures in the [note](https://github.com/sebgraves/KS_and_Reiter/blob/master/Reiter_KS.pdf).
